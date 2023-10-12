@@ -5,7 +5,7 @@ Servicio 1 del Equipo 10 de la materia Diseño de Sistemas UTN.BA
 
 Url de Acceso: http://localhost:8080/swagger#/
 
-#BODY Valido para Fusion de Comunidades (el de Swagger está mal)
+# BODY Valido para Fusion de Comunidades (el de Swagger está mal)
 
 {
     "comunidadesAFusionar": [{
